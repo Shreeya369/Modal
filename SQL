@@ -13,22 +13,23 @@ Ans.
 
 4.    Display All Employee Whose
       Designation is CLERK
-Ans.
+Ans.  SELECT * FROM `testing` WHERE DESIGNATION ='clerk';
 
 5.    Remove Records which is belong from HR ANALYST category
 Ans. 
 
 6.    Display User Detail Whose
       Department No. is 40
-Ans.
+Ans.  SELECT * FROM `testing` WHERE DEPTNO = 40
 
 7.    Display Max salary from
       Table
-Ans.
+Ans.  SELECT MAX(SALARY) FROM testing
 
 8.    Display Minimum Salary from
       Table
-Ans.
+Ans.  SELECT Min(SALARY) FROM testing
+
 
 9.    Display Total Salary of
-Ans.
+Ans.  SELECT SUM(SALARY) FROM testing
