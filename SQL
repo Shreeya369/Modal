@@ -1,0 +1,34 @@
+1.    Display FirstName According
+      to Ascending order.
+Ans. 
+
+2.    Display User Detail
+      According to Lower to Higher
+      Salary
+Ans.
+
+3.    Display Firstname Whose
+      Firstname Starts with J.[J
+Ans.
+
+4.    Display All Employee Whose
+      Designation is CLERK
+Ans.
+
+5.    Remove Records which is belong from HR ANALYST category
+Ans. 
+
+6.    Display User Detail Whose
+      Department No. is 40
+Ans.
+
+7.    Display Max salary from
+      Table
+Ans.
+
+8.    Display Minimum Salary from
+      Table
+Ans.
+
+9.    Display Total Salary of
+Ans.
