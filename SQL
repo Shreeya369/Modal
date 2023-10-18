@@ -1,11 +1,11 @@
 1.    Display FirstName According
       to Ascending order.
-Ans. 
+Ans. SELECT * FROM testing ORDER BY FIRST _NAME ASC
 
 2.    Display User Detail
       According to Lower to Higher
       Salary
-Ans.
+Ans. SELECT * FROM testing ORDER BY salaryASC
 
 3.    Display Firstname Whose
       Firstname Starts with J.[J
